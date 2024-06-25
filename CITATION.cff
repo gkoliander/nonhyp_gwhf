@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: nonhyp_gwhf
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Naomi
+    family-names: Feldheim
+  - given-names: Antti
+    family-names: Haimi
+  - given-names: Günther
+    family-names: Koliander
+  - given-names: José Luis
+    family-names: Romero
+repository-code: 'https://github.com/gkoliander/nonhyp_gwhf'
+license: GPL-3.0
+date-released: '2024-06-25'
